@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-L2N6RGM" name="testsuite.ApachePOI" tests="1" failures="0" timestamp="21 Apr 2021 18:47:41 GMT" time="0.028" errors="0">
+  <testcase name="login" time="0.007" classname="testsuite.ApachePOI">
+    <skipped/>
+  </testcase>
+</testsuite>
